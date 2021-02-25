@@ -1,0 +1,29 @@
+li{
+  list-style-type: none;
+}
+
+
+nav{
+  width: 100vw;
+}
+
+nav{
+  width: 100vw;
+  background-color: rgb(55, 143, 184);
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  
+  display: flex;
+}
